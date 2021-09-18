@@ -32,5 +32,3 @@ let int = 4;
 
 //Question 10
 let myBoolean = false;
-
-console.log(myBoolean);
